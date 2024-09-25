@@ -21,3 +21,4 @@ It is built using basic HTML with minimal inline CSS for styling.
 - HOME: A separate column spanning 5 rows for additional categorization.
 
 ## `Deployment Link`:
+https://vjabhi000985.github.io/InnomaticsInternshipTask1/
